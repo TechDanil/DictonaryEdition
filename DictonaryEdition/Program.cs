@@ -106,6 +106,22 @@ namespace DictonaryEdition
         }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         public static void RemovingEverything()
         {
             bool Agrement = true;
